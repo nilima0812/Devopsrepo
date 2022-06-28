@@ -1,0 +1,1 @@
+Devops is culture change and collabration between developer and operations team, on top of that we have tools like git, jenkins,etc.
